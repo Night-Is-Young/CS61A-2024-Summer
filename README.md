@@ -12,7 +12,7 @@
 
 ##### Homework
 
-项目中的作业、项目等为CS61A 2024 Summer的内容，来源于https://cs61a.org。
+项目中的作业、项目等为CS61A 2024 Summer的内容，来源于https://cs61a.org
 
 囿于能力，在Scheme项目中，作者仍有一个EC没有完成。其余项目均有通过测试的代码。
 
