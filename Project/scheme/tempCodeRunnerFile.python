@@ -1,0 +1,11 @@
+from scheme_eval_apply import *
+from scheme_utils import *
+from scheme_classes import *
+from scheme_builtins import *
+from scheme_forms import *
+from pair import *
+from scheme_tokens import *
+from scheme import *
+
+env = create_global_frame()
+print(scheme_eval(Pair(1,nil)))
